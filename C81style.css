@@ -1,0 +1,26 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+	cursor: default;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+#mainCanvas{
+	background-color: white;
+	border-style: ridge;
+	border-width: 10px;
+}
+#clearArea{
+	background-color: greenyellow;
+	color: green;
+	padding: 10px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.heading-responsive{
+	color: red;
+}
